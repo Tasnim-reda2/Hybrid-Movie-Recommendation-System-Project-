@@ -1,6 +1,5 @@
-streamlit==1.45.1
+streamlit==1.27.2
 pandas==1.5.3
-numpy==1.24.4
+numpy==1.23.5
 scikit-learn==1.2.2
-scikit-surprise==1.1.4
-joblib==1.5.0
+scikit-surprise==1.1.3
